@@ -1,0 +1,4 @@
+diff a/something.php b/something.php	(rejected hunks)
+@@ -0,0 +1 @@
++new test
+\ No newline at end of file
